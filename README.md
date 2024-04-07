@@ -32,8 +32,8 @@ To replicate this analysis on your machine, follow the steps below:
 - **Data Preparation**: Cleaning and structuring data for analysis.
 - **Exploratory Analysis**: Initial data exploration to understand the dataset's structure.
 - **Sentiment Analysis**: Applying NLTK to evaluate the emotional tone behind reviews.
-- **LDA Topic Modeling**: Extracting themes using Gensim with visualisations by PyLDAvis.
 - **Sentiment Trend Analysis**: Visualising how customer sentiment fluctuates over time.
+- **LDA Topic Modeling**: Extracting themes using Gensim with visualisations by PyLDAvis.
 - **Conclusions**: Summarising findings and translating them into actionable business insights.
 
 ## Contribution
